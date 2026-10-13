@@ -1,0 +1,11 @@
+{
+  "name": "driver-drowsiness-stress-detection",
+  "version": "1.0.0",
+  "description": "Browser-based driver drowsiness and stress detection using MediaPipe Face Landmarker",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test tests/"
+  }
+}
