@@ -3,3 +3,7 @@ node_modules/
 *.log
 .DS_Store
 Thumbs.db
+
+# Personal resume files (not part of the project)
+resume.txt
+resume_updated.txt
